@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FirebaseUFG</string>
+    <string name="nome">Nome</string>
+    <string name="email">EMail</string>
+    <string name="apelido">Apelido</string>
+    <string name="senha">Senha</string>
 </resources>
