@@ -10,6 +10,10 @@ public class Pessoa {
     public Pessoa() {
     }
 
+    public Pessoa(String uid) {
+        this.uid = uid;
+    }
+
     public Pessoa(String nome, String email, String apelido, String senha) {
         this.nome = nome;
         this.email = email;

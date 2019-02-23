@@ -12,5 +12,10 @@
         android:icon="@drawable/ic_del"
         android:title="Remover"
         app:showAsAction="always" />
+    <item
+        android:id="@+id/icon_update"
+        android:icon="@drawable/ic_update"
+        android:title="Atualizar"
+        app:showAsAction="always" />
 
 </menu>
